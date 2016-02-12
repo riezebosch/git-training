@@ -1,0 +1,9 @@
+{
+  "generator-reveal-infosupport": {
+    "presentationTitle": "Git",
+    "packageVersion": "0.0.0",
+    "deployToGithubPages": true,
+    "githubUsername": "riezebosch",
+    "githubRepository": "git-training"
+  }
+}
